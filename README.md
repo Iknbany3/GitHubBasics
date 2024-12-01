@@ -1,2 +1,2 @@
 # GitHubBasics
-lab1 -E2
+lab1 
